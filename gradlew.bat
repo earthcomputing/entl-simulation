@@ -1,3 +1,7 @@
+@rem ---------------------------------------------------------------------------------------------
+@rem   Copyright © 2016-present Earth Computing Corporation. All rights reserved.
+@rem   Licensed under the MIT License. See LICENSE.txt in the project root for license information.
+@rem ---------------------------------------------------------------------------------------------
 @if "%DEBUG%" == "" @echo off
 @rem ##########################################################################
 @rem
